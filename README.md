@@ -1,16 +1,23 @@
-## Hi there 👋
+# Abdullah Imtiaz
 
-<!--
-**abdullah-imtiaz911/abdullah-imtiaz911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from Royal Holloway, University of London.
 
-Here are some ideas to get you started:
+## Interests
+- Software Engineering
+- Full Stack Development
+- Human Computer Interaction
+- Cyber Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Java
+- JavaScript
+- React
+- Spring Boot
+- Vue.js
+- SQL
+- PostgreSQL
+- MySQL
+
+## Projects
+- Comparative GUI Design for Young Professionals (Final Year Project)
+- Restaurant Ordering & Management Platform
